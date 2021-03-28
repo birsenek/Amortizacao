@@ -1,0 +1,11 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<nav id="navbar">
+    <ul id="nav-menu">
+        <li><a href="index.jsp">Início</a></li>
+        <li><a href="tabela-price.jsp">Cálculo de Amortização</a></li>
+    </ul>
+
+    <div id="vertical-line"></div>
+</nav>
